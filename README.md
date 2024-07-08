@@ -31,19 +31,17 @@ The data used in this dashboard is sourced from historical stock records of Appl
 ## Snap of sum of high and low by month.(using line chart)
 ![applestocks img_page-0001-2](https://github.com/rahil6218/Apple-stocks-analysis-dashboard/assets/163023453/c1ee4623-82e2-4d8c-a2d3-80fb162f85ca)
 
-## Snap of (using table)
-<img width="433" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/9e27b651-676d-478d-af36-134cac00e572">
+## Snap of table (using table)
+![applestocks img_page-0001-2](https://github.com/rahil6218/Apple-stocks-analysis-dashboard/assets/163023453/363de685-8277-46fb-be3d-bb7d04a0c71e)
+
 
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Remove all the null values and errors for the columns and to check error use filter option.
-- Step 4 : After that make a conditonal column of the column i.e Vehicle type. Which has data that is car of any type which comes under car , all motorcycle above 500 cc and below 500 cc which comes under bikes and all mini bus and bus which come under Bus and all Good carrier of 5 tons or 3.5 tones comes under Good carriers
-- Step 5 : Then close and save the filtered data to power bi.
-- Step 6 : Then by using the line and stacked column chart represent the comparison between the casualties between 2021-2022 by putting on x-axis the accident_date column and on y-axis the number_of_casulties and on line axis the number of casualties.
-- Step 7 : Then by using cards we represents the total number of type of casualties i.e fetal,serious,fatal,slight by placing accident severity in field.
-- Step 8 : Then by using stacked bar chart we will compare the accident severity by putting accident severity on y-axis and Road type on x-axis.
-- Step 9 : Then by using bar chart we calculated total number of casualties w.r.t to vehicle type by putting vehicle_type on x-axis and Number_of_casualties on y-axis.
-- Step 10 : By using funnel chart we found the casualties by road surface condition by putting Road_surface_conditon in category and in value the Number_of_casualties.
-- Step 11 : And by using pie chart we analyzed that how many number of accidents occur w.r.t to their road type. Putting Road_type in legend and Number_of_casualties in values. 
+- Step 4 : Save and exit back to the power bi in which the visualization is to be done.
+- Step 5 : Use cards for representing the sum of open, low, high, and close by putting the open, low , close, and high column in fields in each card.
+- Step 6 : Then by using the line chart we represented the sum of high and low by quaters by putting on X-axis the Quaters and on Y-axis and secondary y-axis the sum_of_high and sum_of_low.
+- Step 7 : Then by using the stacked column charts we represented the sum of open and close by year by putting year in X-axis and sum of open and close in y-axis.
+- Step 8 : Then by using table we represented all the data in tabular form for the quick and specific view in which in column section we put all the column i.e sum of open,close,high ,low 
