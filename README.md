@@ -27,10 +27,8 @@ Microsoft PowerBI [DOWNLOAD](https://www.microsoft.com/en-us/download/details.as
 The data used in this dashboard is sourced from historical stock records of Apple Inc. Ensure that the data is clean and accurate before uploading it to Power BI using power query editor.
 
 ## Snap of total number of open. (using Card)
-
-
-## Snap of total number of casultiies. (using card)
-<img width="360" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/cb61d541-f3b1-4ca2-93ed-247a8f3250b4">
+![applestocks img_page-0001](https://github.com/rahil6218/Apple-stocks-analysis-dashboard/assets/163023453/b9f8b9cd-70de-4325-8e6c-55d25728ac02)
+## Snap of sum of high and low by month.(using line chart)
 
 ## Snap of comparison between 2021-20222(using bar)
 <img width="433" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/9e27b651-676d-478d-af36-134cac00e572">
