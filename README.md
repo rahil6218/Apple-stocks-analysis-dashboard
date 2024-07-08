@@ -29,8 +29,9 @@ The data used in this dashboard is sourced from historical stock records of Appl
 ## Snap of total number of open. (using Card)
 ![applestocks img_page-0001](https://github.com/rahil6218/Apple-stocks-analysis-dashboard/assets/163023453/b9f8b9cd-70de-4325-8e6c-55d25728ac02)
 ## Snap of sum of high and low by month.(using line chart)
+![applestocks img_page-0001-2](https://github.com/rahil6218/Apple-stocks-analysis-dashboard/assets/163023453/c1ee4623-82e2-4d8c-a2d3-80fb162f85ca)
 
-## Snap of comparison between 2021-20222(using bar)
+## Snap of (using table)
 <img width="433" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/9e27b651-676d-478d-af36-134cac00e572">
 
 ### Steps followed 
